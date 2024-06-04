@@ -1,0 +1,16 @@
+{
+    "name": "luis/queo-models",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Luis\\QueoModels\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Luis Ramirez",
+            "email": "luis@queo.com.co"
+        }
+    ],
+    "require": {}
+}
